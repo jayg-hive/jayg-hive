@@ -8,7 +8,7 @@ Working since 2006, into software development since 2015. My current Tech Stack:
 
 * 🌍  I'm based in Las Pinas, Metro Manila
 * 🖥️  See my portfolio at [Coming Soon](http://www.jaygx.me)
-* ✉️  You can contact me at [hey@jaygx.me](mailto:hey@jaygx.me)
+* ✉️  You can contact me at [hey@jaygx.me](mailto:hey@jaygx.me) and [jay@hivegaming.com.au](mailto:jay@hivegaming.com.au)
 * 🚀  I'm currently working on [Prosper Ultimate](http://www.prosper.games)
 * 🧠  I'm learning Amazon Cloud Development Kit
 * ⚡  Into collecting playing cards and working on my sleights. :shhhh:
